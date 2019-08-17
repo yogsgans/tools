@@ -42,17 +42,17 @@ lagi=1
 while [ $lagi -lt 6 ];
 do
 echo ""
-echo     "1. Nmap                           "                | lolcat
+echo     "1. Nmap                 " | lolcat
 echo "============================" | lolcat
-echo     "2. Admin-finder                "                | lolcat
+echo     "2. Admin-finder         " | lolcat
 echo "============================" | lolcat
-echo     "3. RED_HAWK                  "                | lolcat
+echo     "3. RED_HAWK             " | lolcat
 echo "============================" | lolcat
-echo     "4. Lazymux                       "               | lolcat
+echo     "4. Lazymux              " | lolcat
 echo "============================" | lolcat
-echo      "5. Tools-X                         "              | lolcat
+echo     "5. Tools-X              " | lolcat
 echo "============================" | lolcat
-echo     "6.  Exit                                "              | lolcat
+echo     "6. Exit                 " | lolcat
 echo ""
 echo "╭─Choose Number" |lolcat
 read -p "╰─#" pil;
